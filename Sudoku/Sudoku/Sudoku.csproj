@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="Examples\sudoku.PNG" />
+    <Content Include="Examples\sudoku.png" />
     <Content Include="Examples\sudoku1.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
